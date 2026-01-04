@@ -4,7 +4,7 @@
 
 **Team Name:** Topcoders  
 
-**Team Leader:** [@ownriver](https://github.com/ownriver)  
+**Team Leader:**  [@ownriver](https://github.com/ownriver)  
 
 **Team Members:**
 
